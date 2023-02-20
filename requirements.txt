@@ -1,0 +1,14 @@
+diffusers
+sentencepiece
+tokenizers
+datasets
+transformers
+scipy
+ftfy
+bs4
+lxml
+pandas
+fastapi[all]
+torch
+googletrans
+accelerate
